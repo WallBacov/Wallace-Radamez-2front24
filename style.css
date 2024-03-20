@@ -1,0 +1,48 @@
+body{
+  background: #ccc
+}
+
+p{
+  text-align:center;
+}
+
+em{
+  color: #ff0000
+}
+#banner{
+   width:100%
+}
+ 
+h1{
+  text-align:center;
+}
+
+.itens{
+  font-style: italic;
+}
+
+.beneficios{
+  background:#fffff;
+  padding: 20px;
+}
+
+h2{
+  text-align:center;
+}
+
+ul{
+  display:inline-block;
+  width:20%;
+  margin-right: 15%;
+  vertical-align:top;
+}
+
+.imagembeneficios{
+  width:50%;
+}
+
+header{
+  text-align:center;
+  background-color:#fffff;
+  padding:20px;
+}
