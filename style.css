@@ -1,5 +1,5 @@
 body{
-  background: #ccc
+  background: #cccccc
 }
 
 p{
@@ -22,7 +22,7 @@ h1{
 }
 
 .beneficios{
-  background:#fffff;
+  background:#ffffff;
   padding: 20px;
 }
 
@@ -43,6 +43,33 @@ ul{
 
 header{
   text-align:center;
-  background-color:#fffff;
-  padding:20px;
+  background-color:#ffffff;
+  padding: 20px;
+}
+
+header ul li{
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+}
+header ul{
+  width: 100%;
+}
+header ul li a{
+  color: #000000;
+  text-decoration: none;
+}
+.produtos{
+  width:940px;
+  maring: 0 auto;
+}
+.produtos li{
+  display: inline-block;
+  text-align: center;
+  wth: 30%
+}
+.produtos h2{
+  font-size: 30px;
+  font-weight: bold;
 }
