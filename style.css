@@ -62,14 +62,18 @@ header ul li a{
 }
 .produtos{
   width:940px;
-  maring: 0 auto;
+  margin: 0 auto;
 }
 .produtos li{
   display: inline-block;
   text-align: center;
-  wth: 30%
+  width: 30%
 }
 .produtos h2{
   font-size: 30px;
   font-weight: bold;
+}
+.produtos li img{
+  width: 100%;
+  height: 200px;
 }
